@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://javinc.github.io/"
 languageCode = "en"
 title = "Hello World"
 theme = "hucore"
