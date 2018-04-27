@@ -1,0 +1,9 @@
+[submodule "themeshucore"]
+	path = themeshucore
+	url = https://github.com/mgjohansen/hucore
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hucore"]
+	path = themes/hucore
+	url = https://github.com/mgjohansen/hucore.git
